@@ -34,6 +34,6 @@ Allows you to "sell" stocks based on their realtime stock prices, storing the in
 
 ### History
 Provides the history of all your trades
-<footer>
+
+---
 Please note that the Login and Logout functions and all functions in helpers.py came with the assignment starter code and are not my work. Starter code ©2023 David J. Malan/ Harvard
-<footer>
