@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    The current share price of {{stock.symbol}}({{stock.name}}) is {{stock.price | usd}}
+{% endblock %}
