@@ -33,10 +33,10 @@ Allows you to "buy" stocks based on their realtime stock prices, storing the inf
 Allows you to "sell" stocks based on their realtime stock prices, storing the information in the portfolios database.
 
 ### History
-Provides the history of all your trades
+Provides the history of all your trades.
 
 ### Show Password
-Allows the user to see their password as they type it, to avoid mistakes
+Allows the user to see their password as they type it, to avoid mistakes.
 
 ---
 Please note that the Login and Logout functions and all functions in helpers.py came with the assignment starter code and are not my work. Starter code ©2023 David J. Malan/ Harvard
