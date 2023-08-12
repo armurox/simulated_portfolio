@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-    let passwords = document.querySelectorAll('.plac');
+    let passwords = document.querySelectorAll('.show');
     let checkbox = document.querySelector('#checkbox');
     console.log(passwords.length);
     checkbox.addEventListener('click', function(){
